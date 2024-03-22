@@ -15,13 +15,13 @@ digits against noisy backgrounds, in images of dimensions 48x60. The main goals 
 
 ## Libraries Used
 
-- **PyTorch & torchvision:** For constructing, training, and evaluating neural network models, and managing the MNIST
+- **`PyTorch` & `torchvision`:** For constructing, training, and evaluating neural network models, and managing the MNIST
   dataset.
-- **matplotlib & seaborn:** For visualizations, including plotting images, training statistics, and confusion matrices.
-- **scikit-learn:** For generating detailed classification reports and confusion matrices.
-- **numpy:** For data manipulation and mathematical operations.
-- **collections.Counter:** For analyzing the frequency of labels within the dataset.
-- **datetime:** For managing time-related information during model training.
+- **`matplotlib` & `seaborn`:** For visualizations, including plotting images, training statistics, and confusion matrices.
+- **`scikit-learn`:** For generating detailed classification reports and confusion matrices.
+- **`numpy`:** For data manipulation and mathematical operations.
+- **`collections.Counter`:** For analyzing the frequency of labels within the dataset.
+- **`datetime`:** For managing time-related information during model training.
 
 To install the necessary libraries:
 
