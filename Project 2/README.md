@@ -2,7 +2,7 @@
 
 ## Objectives
 
-This project involves the development of machine learning models for two specific tasks: object localization and object
+This project involves the development of deep learning models for two specific tasks: object localization and object
 detection, using an augmented version of the MNIST dataset. The dataset features randomly placed, rotated, and resized
 digits against noisy backgrounds, in images of dimensions 48x60. The main goals of the project include:
 
